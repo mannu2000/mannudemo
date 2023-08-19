@@ -1,0 +1,9 @@
+{
+	"name": "mann-akhlak",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4dc06077-146a-4a33-a527-db9652749d4e",
+		"tenantId": "d0f0222d-6628-410f-afd7-67ea5aa89326"
+	}
+}
